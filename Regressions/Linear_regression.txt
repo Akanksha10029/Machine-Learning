@@ -1,1 +1,1 @@
-
+In this we will, predict home prices using linear regression. We will use training data that has home areas in square feet and corresponding prices and train a linear regression model using sklearn linear regression class.
