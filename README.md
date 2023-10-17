@@ -1,3 +1,3 @@
 # Machine-Learning
 Machine Learning is a set of techniques to make computers better at doing things that humans (traditionally) can do better than machines...
-Basically there are set of techniques to extract knowledge from available data and use that knowledge to make decisions 
+**Basically there are set of techniques to extract knowledge from available data and use that knowledge to make decisions**
