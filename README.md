@@ -5,4 +5,4 @@ Machine learning consist of 2 things ,i.e, Deep learning and Mathematical models
 Let's dive into this exciting journey...
 
 <img  src="https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif">
-<img height=100px  src="https://media.licdn.com/dms/image/D4D22AQHpO7n5onw4wQ/feedshare-shrink_800/0/1691614546034?e=1706140800&v=beta&t=-EXP5rFr7EkgJ1aDERE9mYQuEPGti4aW6va9YrNUtt8">
+<img height=600px  src="https://media.licdn.com/dms/image/D4D22AQHpO7n5onw4wQ/feedshare-shrink_800/0/1691614546034?e=1706140800&v=beta&t=-EXP5rFr7EkgJ1aDERE9mYQuEPGti4aW6va9YrNUtt8">
